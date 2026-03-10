@@ -1,0 +1,10 @@
+pandas as pd
+sklearn.model_selection
+train_test_split
+sklearn.ensemble 
+RandomForestClassifier
+sklearn.metrics  
+accuracy_score
+joblib
+streamlit as st
+numpy as np
